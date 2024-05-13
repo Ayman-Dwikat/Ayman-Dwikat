@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ayman-Dwikat
-- 👀 I’m interested in Front End development.
+- 👀 I’m interested in Front End development for web or mobile.
 - 🌱 I’m currently learning new frameworks and improving my skills.
 - 💞️ I’m looking to collaborate on web development projects, especially those focusing on user interface and user experience.
 - 📫 How to reach me: [Send me an email](mailto:ayman.dwikat.2001@gmail.com)
